@@ -2,3 +2,4 @@ read
 yellow
 blue
 green
+pink
